@@ -1,0 +1,16 @@
+{
+  "name": "shop-node-lambda",
+  "version": "1.0.0",
+  "description": "This package will contain code for backend services for shop app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shop",
+    "lambda"
+  ],
+  "author": "Eknath Kumbhar",
+  "license": "ISC"
+}
